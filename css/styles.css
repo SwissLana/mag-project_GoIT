@@ -330,10 +330,9 @@ button {
   justify-content: center;
   align-items: center;
   padding: 24px 32px;
+  margin: 0 auto;
   min-width: 263px;
   max-width: 420px;
-
-  /* background/button */
   background: linear-gradient(
     80.23deg,
     #e8652d -4.25%,
